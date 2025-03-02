@@ -1,0 +1,4 @@
+A RAG system contain of 2 key component:
+- A retrieval model that fetches relevant information from an external knowledge source, which could be a db, search engine, 
+or any other information repo
+- A language model that generates responses based on the retrieval knowledge
