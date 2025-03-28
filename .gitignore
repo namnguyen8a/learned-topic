@@ -1,1 +1,4 @@
 .env/ 
+RAG/basic-rag/.credential
+RAG/basic-rag/main.py
+
